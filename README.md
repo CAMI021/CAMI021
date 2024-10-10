@@ -1,4 +1,5 @@
-# (¯`·.¸¸.·´¯`·.¸¸.-    𝐻𝒾 𝓉𝒽𝑒𝓇𝑒     -.¸¸.·`¯´·.¸¸.·`¯(
+<h1 align="center">(¯`·.¸¸.·´¯`·.¸¸.-    𝐻𝒾 𝓉𝒽𝑒𝓇𝑒     -.¸¸.·`¯´·.¸¸.·`¯)</h1>
+
 <!--
 **CAMI021/CAMI021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +22,11 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center"><i>˜”*°•.˜”*°• Contact me  •°*”˜.•°*”˜</i></h3>
 
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jc-ortiz-moreno-8815a0332/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jc-ortiz-moreno-8815a0332/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27741254/jcdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27741254/jcdev" height="30" width="40" /></a>
+</p>
+</p>
 <p align="left">
 </p>
 
