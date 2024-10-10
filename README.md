@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fondo](/private/var/adminmac/Downloads)
+![Fondo](https://i.pinimg.com/564x/fb/05/af/fb05afa5204bdefd8a737a79ac1b8d93.jpg)
 
 
